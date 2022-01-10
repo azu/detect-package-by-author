@@ -6,7 +6,8 @@ Detect npm packages by author name in your package-lock.json or yarn.lock.
 
 Install with [npm](https://www.npmjs.com/):
 
-    npm install detect-package-by-author
+    # Not Yet Publish
+    # npm install detect-package-by-author
 
 ## Usage
 
